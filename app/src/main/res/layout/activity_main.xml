@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.afisher.chartandgraphs.MainActivity">
+
+
+    <Button
+        android:id="@+id/logBook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BG Log Book"
+        tools:layout_editor_absoluteY="16dp"
+        tools:layout_editor_absoluteX="148dp" />
+
+    <Button
+        android:id="@+id/pieChartMP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MP Pie Chart"
+        tools:layout_editor_absoluteY="16dp"
+        tools:layout_editor_absoluteX="148dp" />
+
+    <Button
+        android:id="@+id/pieChartEZ"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pie Chart EZ"
+        tools:layout_editor_absoluteY="16dp"
+        tools:layout_editor_absoluteX="148dp" />
+
+    <Button
+        android:id="@+id/barGraph"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bar Graph"
+        tools:layout_editor_absoluteY="16dp"
+        tools:layout_editor_absoluteX="148dp" />
+
+    <Button
+        android:id="@+id/carePlanBGLevelsEZ"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Care Plean BG Levels EZ"
+        tools:layout_editor_absoluteY="16dp"
+        tools:layout_editor_absoluteX="148dp" />
+
+    <Button
+        android:id="@+id/insulinDeliveryGraphEz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Insulin Delivery Graph EZ"
+        tools:layout_editor_absoluteY="16dp"
+        tools:layout_editor_absoluteX="148dp" />
+
+    <Button
+        android:id="@+id/insulinDeliveryGraphMP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Insulin Delivery MP"
+        tools:layout_editor_absoluteY="16dp"
+        tools:layout_editor_absoluteX="148dp" />
+
+    <Button
+        android:id="@+id/tableLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Table Layout"
+        tools:layout_editor_absoluteY="16dp"
+        tools:layout_editor_absoluteX="148dp" />
+
+    <Button
+        android:id="@+id/testFreqBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Test Frequency"
+        tools:layout_editor_absoluteY="16dp"
+        tools:layout_editor_absoluteX="148dp" />
+
+
+
+
+
+
+
+</LinearLayout>

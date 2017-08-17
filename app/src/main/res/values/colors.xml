@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+
+    <color name="hypo">#3F51B5</color>
+    <color name="low">#2196F3</color>
+    <color name="stable">#4CAF50</color>
+    <color name="high">#F44336</color>
+    <color name="hyper">#D50000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="bolus">#2196F3</color>
+    <color name="basal">#FFF176</color>
+
+    <color name="divider_color">#ffffff</color>
+
+    <color name="odd_row">#00e5ff</color>
+
+    <color name="even_row">#84FFFF</color>
+</resources>
